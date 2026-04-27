@@ -7,8 +7,16 @@ Soy **Helen Jhesenia Lopez Calderon**, Psicóloga organizacional especializada e
 ---
 
 ## 🛠️ Stack Tecnológico y Enfoque
-* **Lenguajes:** R (ggplot2, dplyr, ggrepel).
-* **Enfoques:** Strategic Workforce Planning, Bienestar Organizacional, Diseño de Roles, Adopción de IA Ética.
+
+*  Análisis y Visualización: R (ggplot2, dplyr, ggrepel).
+
+* Entorno de Desarrollo (IDE): RStudio.
+
+* Control de Versiones y Despliegue: Git y GitHub.
+
+* Documentación: Markdown.
+
+* Enfoques Metodológicos: Strategic Workforce Planning, Bienestar Organizacional, Diseño de Roles, Adopción de IA Ética.
 
 ---
 
